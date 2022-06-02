@@ -1,6 +1,3 @@
-# CIT281-Page
-This repository serves as a page for all project and lab repos
-
 Project 1
 Project 2
 Project 3
