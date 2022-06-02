@@ -1,5 +1,4 @@
 ![Imgur](https://i.imgur.com/ckdcD0Y.jpg)
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ## CIT 281 Project List
 - [Project 1]
   - [Lab 1]
