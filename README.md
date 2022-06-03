@@ -5,7 +5,7 @@
 - [Project 2]
   - [Lab 2](https://uo-cit-wyattholland.github.io/cit281-lab2/)
 - [Project 3]
-  - [Lab 3]
+  - [Lab 3](https://uo-cit-wyattholland.github.io/cit281-lab3/)
   - [Lab 4]
 - [Project 4]
   - [Lab 5]
