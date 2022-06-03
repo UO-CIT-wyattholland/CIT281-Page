@@ -2,7 +2,7 @@
 ## CIT 281 Project List
 - [Project 1](https://uo-cit-wyattholland.github.io/cit281-p1/)
   - [Lab 1](https://uo-cit-wyattholland.github.io/cit281-lab1/)
-- [Project 2]
+- [Project 2](https://uo-cit-wyattholland.github.io/cit281-p2/)
   - [Lab 2](https://uo-cit-wyattholland.github.io/cit281-lab2/)
 - [Project 3]
   - [Lab 3](https://uo-cit-wyattholland.github.io/cit281-lab3/)
