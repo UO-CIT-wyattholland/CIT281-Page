@@ -1,7 +1,7 @@
 ![Imgur](https://i.imgur.com/ckdcD0Y.jpg)
 ## CIT 281 Project List
 - [Project 1]
-  - [Lab 1]
+  - [Lab 1](https://uo-cit-wyattholland.github.io/cit281-lab1/)
 - [Project 2]
   - [Lab 2]
 - [Project 3]
