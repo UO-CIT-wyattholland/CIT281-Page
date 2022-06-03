@@ -12,7 +12,7 @@
 - [Project 5]
 - [Project 6]
   - [Lab 6]
-  - [Lab 7]
+  - [Lab 7] (https://uo-cit-wyattholland.github.io/cit281-lab7/)
 - [Project 7]
   - [Lab 8]
   - [Lab 9]
