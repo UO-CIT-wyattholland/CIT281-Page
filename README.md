@@ -15,7 +15,7 @@
   - [Lab 7](https://uo-cit-wyattholland.github.io/cit281-lab7/)
 - [Project 7]
   - [Lab 8](https://uo-cit-wyattholland.github.io/cit281-lab8/)
-  - [Lab 9]
+  - [Lab 9](https://uo-cit-wyattholland.github.io/cit281-lab9/)
 
 
 
